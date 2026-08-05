@@ -1,5 +1,5 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "description": "Free, blazing-fast multi-protocol download manager (IDM alternative) powered by a Rust engine. Supports HTTP/HTTPS/FTP/BitTorrent/HLS with intelligent segmentation.",
     "homepage": "https://fluxdown.zerx.dev",
     "license": "AGPL-3.0-only",
@@ -10,12 +10,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zerx-lab/FluxDown/releases/download/v0.3.1/FluxDown-0.3.1-windows-x64-portable.zip",
-            "hash": "407ec01c3dca3ad05efbc9da855eac4925bad65777a1492c4497f17ceddd3e29"
+            "url": "https://github.com/zerx-lab/FluxDown/releases/download/v0.3.2/FluxDown-0.3.2-windows-x64-portable.zip",
+            "hash": "376dba579e4762210636faa5b583b23f067416dbbf2f35c3f97126cae1cad83c"
         },
         "arm64": {
-            "url": "https://github.com/zerx-lab/FluxDown/releases/download/v0.3.1/FluxDown-0.3.1-windows-arm64-portable.zip",
-            "hash": "c3b640cde3e695a9e3a3e881017231ecce2940016becbe7d310a4d0bb9b865bb"
+            "url": "https://github.com/zerx-lab/FluxDown/releases/download/v0.3.2/FluxDown-0.3.2-windows-arm64-portable.zip",
+            "hash": "b2b6a40f29f41950ae0eb568511aada8aaf440a3ef13db1f71097dbd16b7e893"
         }
     },
     "bin": "flux_down.exe",
