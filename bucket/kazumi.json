@@ -1,12 +1,12 @@
 {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "description": "Kazumi - Anime streaming client",
     "homepage": "https://github.com/Predidit/Kazumi",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Predidit/Kazumi/releases/download/2.3.0/Kazumi_windows_2.3.0.msix",
-            "hash": "23dd93dc3e091ee68b39db5908807c5813b952822fb05ff5c9f279fbc4f004fc"
+            "url": "https://github.com/Predidit/Kazumi/releases/download/2.3.1/Kazumi_windows_2.3.1.msix",
+            "hash": "bab628f2e9f0781c6b62c24f3b44124a0583be52451645e609b2c444f57236c8"
         }
     },
     "installer": {
